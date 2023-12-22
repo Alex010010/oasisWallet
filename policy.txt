@@ -1,36 +1,24 @@
-Política de Privacidad para [Nombre de tu Aplicación]
+Política de Privacidad para Oasis Wallet
 
-Fecha de entrada en vigencia: [Fecha]
+Fecha de entrada en vigencia: Diciembre 2023
 
-Esta Política de Privacidad describe cómo [Nombre de tu empresa o tu nombre] ("nosotros", "nos" o "nuestra") recopila, utiliza y comparte información acerca de los usuarios ("usuarios" o "tú") de la aplicación [Nombre de tu Aplicación] ("la Aplicación").
+Esta Política de Privacidad describe cómo ("nosotros", "nos" o "nuestra") no recopila, ni utiliza y ni comparte información acerca de los usuarios ("usuarios" o "tú") ya que la aplicaciñon es consultiva haciendo uso de la api publica de Oasis Scan.
 
 1. Información Recopilada
+No se recopila trata o se hace uso de ninguna información, la información se recupera mediante API´s publicas de Oasis Scan.
 
-1.1 Información del Usuario: Podemos recopilar información personal identificable, como tu nombre de usuario, dirección de correo electrónico y otra información que proporcionas voluntariamente al usar la Aplicación.
-
-1.2 Información de la Wallet de Oasis: La Aplicación puede acceder y mostrar información relacionada con tu wallet de Oasis. No almacenamos ni recopilamos información sensible de tu wallet.
-
-1.3 Información del Dispositivo: Podemos recopilar información sobre tu dispositivo, como el modelo, sistema operativo y versión, identificadores únicos de dispositivo y datos de rendimiento.
-
-2. Uso de la Información
-
-2.1 Operación y Mejora de la Aplicación: Utilizamos la información recopilada para operar, mantener y mejorar la funcionalidad de la Aplicación.
-
-2.2 Comunicación: Podemos utilizar tu dirección de correo electrónico para enviarte actualizaciones importantes relacionadas con la Aplicación o responder a tus consultas.
+2. Comunicación: Podemos utilizar tu dirección de correo electrónico para enviarte actualizaciones importantes relacionadas con la Aplicación o responder a tus consultas.
 
 3. Compartir de la Información
-
-3.1 No Venta de Información: No vendemos ni alquilamos tu información personal a terceros.
-
-3.2 Proveedores de Servicios: Podemos compartir información con terceros que prestan servicios en nuestro nombre, como procesadores de pago y proveedores de alojamiento.
+No se comparte ninguna información ni interna ni de uso de la aplicación.
 
 4. Seguridad
 
-Implementamos medidas de seguridad razonables para proteger la información recopilada. Sin embargo, ten en cuenta que ninguna medida de seguridad es completamente impenetrable.
+Implementamos medidas de seguridad razonables para proteger el acceso a la App aunque cuenta que toda la información que se usa es de acceso publico. Ten en cuenta que ninguna medida de seguridad es completamente impenetrable y que la capa de servicios de Oasis Scan es una plataforma de publica.
 
 5. Menores de 13 Años
 
-La Aplicación no está dirigida a menores de 13 años, y no recopilamos intencionadamente información de usuarios menores de esa edad.
+La Aplicación no está dirigida a menores de 13 años.
 
 6. Cambios en la Política de Privacidad
 
@@ -38,4 +26,4 @@ Nos reservamos el derecho de actualizar esta Política de Privacidad en cualquie
 
 7. Contacto
 
-Si tienes preguntas sobre esta Política de Privacidad, contáctanos en [tu correo electrónico de contacto].
+Si tienes preguntas sobre esta Política de Privacidad, contáctanos en Alex.011.011@gmail.com
